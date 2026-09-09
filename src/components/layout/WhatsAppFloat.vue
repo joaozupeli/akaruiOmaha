@@ -30,7 +30,7 @@ onUnmounted(() => window.removeEventListener('scroll', onScroll))
     rel="noopener noreferrer"
   >
     <Icon name="whatsapp" :size="18" />
-    <span class="mono">Message us</span>
+    <span class="mono">Falar agora</span>
   </a>
 </template>
 
